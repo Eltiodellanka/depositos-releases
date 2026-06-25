@@ -1,0 +1,5 @@
+{
+  "version": "16.2",
+  "url": "https://raw.githubusercontent.com/Eltiodellanka/depositos-releases/main/Control-de-Depositos.exe",
+  "notas": "Primera versión con botón de actualización.\n- Productos con código (permite nombres repetidos con distinta unidad).\n- Asignaciones con varias marcas por producto (kg por marca).\n- Marca por pallet; el peso sale del kg de la marca.\n- Respaldos automáticos de la base."
+}
