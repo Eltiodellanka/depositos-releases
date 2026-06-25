@@ -1,5 +1,5 @@
 {
-  "version": "16.2",
+  "version": "16.3",
   "url": "https://raw.githubusercontent.com/Eltiodellanka/depositos-releases/main/Control-de-Depositos.exe",
-  "notas": "Primera versión con botón de actualización.\n- Productos con código (permite nombres repetidos con distinta unidad).\n- Asignaciones con varias marcas por producto (kg por marca).\n- Marca por pallet; el peso sale del kg de la marca.\n- Respaldos automáticos de la base."
+  "notas": "Mejoras:\n- Desvincular pallets de un retiro (vuelven a disponibles).\n- Aviso cuando el stock teórico (pedidos) no coincide con el físico (pallets cargados).\n- Botón para seleccionar los pallets más viejos (FIFO) al retirar.\n- Cajas > 0 obligatorio y aviso al cerrar con cambios sin guardar."
 }
