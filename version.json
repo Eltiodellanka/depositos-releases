@@ -1,5 +1,5 @@
 {
-  "version": "16.3",
+  "version": "16.4",
   "url": "https://raw.githubusercontent.com/Eltiodellanka/depositos-releases/main/Control-de-Depositos.exe",
-  "notas": "Mejoras:\n- Desvincular pallets de un retiro (vuelven a disponibles).\n- Aviso cuando el stock teórico (pedidos) no coincide con el físico (pallets cargados).\n- Botón para seleccionar los pallets más viejos (FIFO) al retirar.\n- Cajas > 0 obligatorio y aviso al cerrar con cambios sin guardar."
+  "notas": "Mejoras:\n- Filtros ocultos por defecto, con botón de embudo (se pone amarillo al activarse).\n- Filtros más prolijos y ordenados.\n- Auto-actualización entre PCs: si otra computadora carga algo, lo ves al toque y te avisa.\n- Barra lateral más compacta."
 }
