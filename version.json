@@ -1,5 +1,5 @@
 {
-  "version": "16.4",
+  "version": "16.5",
   "url": "https://raw.githubusercontent.com/Eltiodellanka/depositos-releases/main/Control-de-Depositos.exe",
-  "notas": "Mejoras:\n- Filtros ocultos por defecto, con botón de embudo (se pone amarillo al activarse).\n- Filtros más prolijos y ordenados.\n- Auto-actualización entre PCs: si otra computadora carga algo, lo ves al toque y te avisa.\n- Barra lateral más compacta."
+  "notas": "Mejoras:\n- Nuevo reporte 'Stock a fecha' (Reportes): elegís productos con un buscador de doble lista (como los de pedidos), te arma el detalle de pallets por depósito ordenado FIFO y un resumen Frimaral / Corfrisa / Total en pallets, cajas y kg.\n- Alerta de pallets con 75 o más días en depósito.\n- Botón Imprimir con formato A4 en blanco y negro (no gasta tinta de color).\n- Botón Excel: planilla prolija con detalle y resumen, lista para mandar al encargado."
 }
