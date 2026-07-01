@@ -1,5 +1,5 @@
 {
-  "version": "16.5",
+  "version": "16.6",
   "url": "https://raw.githubusercontent.com/Eltiodellanka/depositos-releases/main/Control-de-Depositos.exe",
-  "notas": "Mejoras:\n- Nuevo reporte 'Stock a fecha' (Reportes): elegís productos con un buscador de doble lista (como los de pedidos), te arma el detalle de pallets por depósito ordenado FIFO y un resumen Frimaral / Corfrisa / Total en pallets, cajas y kg.\n- Alerta de pallets con 75 o más días en depósito.\n- Botón Imprimir con formato A4 en blanco y negro (no gasta tinta de color).\n- Botón Excel: planilla prolija con detalle y resumen, lista para mandar al encargado."
+  "notas": "Mejoras:\n- Stock a fecha: nuevo apartado 'Teórico' que muestra los pallets pendientes según pedidos (ingresos y retiros sin cargar), con cajas y kg aproximados y una columna Neto de lo que sumaría o restaría al stock real. La alerta de antigüedad ahora es a los 60 días.\n- Movimientos: la marca aparece al lado del producto y se puede buscar; los filtros de fecha ahora son dos rangos que conviven — 'Ingresados entre' (verde) y 'Retirados entre' (rojo).\n- Alertas: una alerta por pedido con el desglose de los productos que faltan.\n- Nuevo pedido: la cantidad arranca en 0, campos más compactos y aviso en rojo si ya existe un pedido con la misma fecha, depósito y concepto."
 }
