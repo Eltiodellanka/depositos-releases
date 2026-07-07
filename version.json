@@ -1,5 +1,5 @@
 {
-  "version": "16.9",
+  "version": "16.10",
   "url": "https://raw.githubusercontent.com/Eltiodellanka/depositos-releases/main/Control-de-Depositos.exe",
   "notas": "Novedades:\n- Nuevos reportes \"Retiros a fecha\" y \"Envíos a fecha\": elegís un rango de\n  fechas y los productos, y te arma el detalle, el resumen por depósito y avisa\n  si quedaron pedidos sin completar. Se pueden imprimir y bajar a Excel.\n- Reportes más ordenados: quedaron a la vista solo Stock a fecha, Retiros y\n  Envíos (los otros se ocultaron por ahora).\n- Movimientos: la columna de peso ahora es \"KG\" con separador de miles; botón\n  de brocha para limpiar los filtros; el filtro de pedido busca ingreso o\n  retiro junto; y al bajar por la lista, los botones y filtros quedan fijos\n  arriba.\n- Colores: Corfrisa pasó a azul y las etiquetas de Importación a celeste."
 }
