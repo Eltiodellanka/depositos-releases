@@ -1,5 +1,5 @@
 {
-  "version": "0.11",
+  "version": "0.12",
   "url": "https://raw.githubusercontent.com/Eltiodellanka/depositos-releases/main/Control-de-Depositos.exe",
   "notas": "Mejoras:\n- Filtro rápido de productos con lupa en \"Composición de stock\" y \"Movimientos\n  reales\" (dashboard): tildás/destildás productos al toque, sin abrir el\n  selector grande. Queda sincronizado con el campo \"Productos a incluir\".\n- El gráfico de \"Movimientos reales\" ahora muestra el valor de cada punto\n  arriba de la línea, sin tener que pasar el mouse.\n- Arreglo: el gráfico de \"Movimientos reales\" no filtraba bien por producto\n  al usar la lupa (mostraba movimientos de todos los productos igual).\n- Nuevo indicador de \"Hamburguesas por antigüedad\" en el dashboard: un\n  cuadradito que cambia de color según cuánto hace que están en el depósito\n  (verde/amarillo/rojo, con aviso especial pasados los 90 días). Al hacer\n  clic se abre un detalle organizado por urgencia y por producto, con botón\n  para copiar la lista."
 }
