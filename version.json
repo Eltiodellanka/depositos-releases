@@ -1,5 +1,5 @@
 {
-  "version": "0.14",
+  "version": "0.15",
   "url": "https://raw.githubusercontent.com/Eltiodellanka/depositos-releases/main/Control-de-Depositos.exe",
-  "notas": "Mejoras:\n   - Nuevo botón en el Dashboard para exportar a Excel tal como está filtrado,\n     con gráficos de Excel: composición, comparativo de depósitos,\n     hamburguesas por antigüedad y movimientos reales.\n   - Informe \"Stock a fecha\": el desglose de pallets muestra los kg de cada\n     pallet, y el Excel colorea cada pallet según su antigüedad (verde,\n     amarillo, rojo, rojo crítico), con leyenda.\n   - Filtros de la ventana Pedidos con el mismo tamaño y orden que los de\n     Movimientos."
+  "notas": "Informes: los kg se calculan sin redondear por pallet y el Excel usa fórmulas, así que DETALLE y RESUMEN cierran exacto.\nStock a fecha: se corrige el teórico en kg que aparecía como ajuste por diferencias de redondeo.\nFiltros de productos y marcas: nueva opción “Seleccionar todo / todos los resultados” y “Agregar la selección actual al filtro”.\nReportes: arrancan sin productos seleccionados, recuerdan los filtros de cada informe al cambiar de ventana y tienen botón Limpiar.\nMovimientos a fecha: filtros reordenados en una grilla."
 }
